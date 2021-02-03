@@ -7,7 +7,6 @@
     * Anomaly Detection
     * Knowledge mining
     * Regression, classification, clustering
-*
 
 ## Machine Learning
 
@@ -33,8 +32,6 @@
     * Verification, Similarity, Grouping, Identification
 * Text Analytics
 * Translator Text
-*
-
 
 ## Natural Language Processing (NLP)
 
@@ -46,8 +43,6 @@
 * Detect profanities
 * monitor news for negative company name mentions
 * Entity recognition
-*
-
 
 ## Conversational AI
 
@@ -58,5 +53,3 @@
 * Azure Bot Service
 * QnA Maker
 * Smart assistants (alexa, siri)
-*
-*
