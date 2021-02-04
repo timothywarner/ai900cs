@@ -1,5 +1,10 @@
 # AI-900 API Pages and Demos
 
+## Hands-on with AI Demo sites
+
+* [Hands on with AI](https://aidemos.microsoft.com/)
+
+
 ## AI and ML terminology
 
 * [ML algorithm types](https://azure.microsoft.com/en-us/overview/machine-learning-algorithms/)
